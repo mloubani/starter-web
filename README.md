@@ -10,6 +10,8 @@ Sample website with plenty of files for demos - Test. More Purpose text.
 
 ## How to Contribute
 
+Please fork this repository then issue a pull request for review.
+
 ## Deployment
 
 This is a simple web project, deployment can be to a web server.
