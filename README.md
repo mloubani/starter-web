@@ -20,4 +20,4 @@ Adding stuff to working dir
 
 ### Copyright
 
-2020 Git Stuff
+2020 Git Stuff. All rights reserved stash change.
